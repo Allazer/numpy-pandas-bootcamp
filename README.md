@@ -1,22 +1,6 @@
-﻿# numpy-pandas-bootcamp
+﻿
 
-
-A hands-on learning repository documenting my journey through NumPy, Pandas, data analysis, and portfolio projects.
-
-Over the course of these sessions I’ve learnt to:
-    • ✅ Create NumPy arrays 
-    • ✅ Work with shapes and dimensions 
-    • ✅ Perform vectorized arithmetic 
-    • ✅ Use indexing and slicing in 1D and 2D arrays 
-    • ✅ Apply boolean masking 
-    • ✅ Compute statistics with NumPy 
-    • ✅ Use broadcasting 
-    • ✅ Solve progressively harder challenges 
-    • ✅ Complete a realistic capstone project
-
-Challenges I faced:
-1. The start and stop and step when slicing. But after a couple of practices I was able to understand it.
-2. How to append a numpy array was something I didn’t anticipate but after research I saw how possible it is.
-3. Using max() and argmax() functions. The latter prints out the whole row while max returns the position of the maximum value. Took some time but I got the hang of it.
+My NumPy & Pandas Bootcamp Journey
+This repo is where I'm tracking my progress through NumPy and Pandas — building on Python OOP, Git/GitHub, and a full Expense Tracker project I put together earlier. So far I've gotten comfortable with vectorized operations, multi-dimensional arrays, axis-based stats (mean, max, argmax), boolean masking, and structured arrays for mixed data types — not just by reading about them, but by actually breaking things and figuring out why NumPy does what it does. Next up: Pandas and visualization, where all this axis intuition carries straight over into DataFrames, groupby, and dealing with real (messy) data. Follow along as I add more 🚀
 
 
